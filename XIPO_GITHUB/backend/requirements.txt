@@ -1,0 +1,32 @@
+# FastAPI + Uvicorn + Pydantic + python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# SEBI scraping
+requests
+beautifulsoup4
+lxml
+
+# PDF extraction
+pdfplumber
+pymupdf
+
+# Embeddings + FAISS
+sentence-transformers
+faiss-cpu
+
+# ML scoring
+numpy
+pandas
+scikit-learn
+
+# AWS S3
+boto3
+
+# File upload
+python-multipart
+
+# UI
+streamlit

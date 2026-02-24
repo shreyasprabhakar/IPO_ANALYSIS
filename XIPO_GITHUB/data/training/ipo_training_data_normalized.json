@@ -1,0 +1,2768 @@
+[
+  {
+    "company_pdf": "Anand Rathi Wealth Limited - RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "ebitda": 2021.0,
+        "pat": 2021.0,
+        "finance_cost": 2021.0,
+        "ebit": 2021.0
+      },
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "AGS Transact Technologies Limited.pdf",
+    "sector": "IT Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Apr_15,_2024_JNK_India_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {
+        "ebitda": 31.0,
+        "pat": 31.0,
+        "total_equity": 31.0,
+        "total_debt": 31.0,
+        "ebit": 31.0,
+        "current_assets": 31.0,
+        "current_liabilities": 31.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": 1.0,
+      "debt_to_equity_latest": 1.0,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": -0.36604603317479417,
+      "debt_to_equity_latest": -0.3784673342626181,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Antony Waste Handling Cell Limited.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {
+        "current_assets": 31.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Ajax Engineering Ltd- RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "total_debt": 2022.0
+      },
+      "FY23": {},
+      "FY24": {
+        "total_debt": 2022.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Apr_30,_2024_Aadhar_Housing_Finance_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "pat": -19.0,
+        "ebit": 66010.0
+      },
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Akums Drugs and Pharmaceuticals Limited - RHP.pdf",
+    "sector": "Pharmaceuticals",
+    "financials": {
+      "FY22": {
+        "revenue": 31.0,
+        "pat": 31.0,
+        "total_equity": 31.0,
+        "current_assets": 31.0,
+        "current_liabilities": 31.0
+      },
+      "FY23": {
+        "revenue": 31.0,
+        "pat": 31.0,
+        "total_equity": 31.0,
+        "current_assets": 31.0,
+        "current_liabilities": 31.0
+      },
+      "FY24": {
+        "revenue": 122.03,
+        "total_assets": 122.03,
+        "total_debt": 122.03,
+        "finance_cost": 122.03
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": 0.9840492969942118,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 2.936451612903226,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": 1.0,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": 1.0,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 1.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": -0.7071067811865475,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Apr_15,_2024_Vodafone_Idea_Limited-_RHP.pdf",
+    "sector": "IT Services",
+    "financials": {
+      "FY22": {
+        "revenue": 2021.0,
+        "total_debt": 2021.0,
+        "current_liabilities": 2021.0
+      },
+      "FY23": {
+        "pat": 19.0
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Aug_08,_2023_Pyramid_Technoplast_Limited_-_RHP.pdf",
+    "sector": "GLOBAL",
+    "financials": {
+      "FY22": {
+        "pat": 31.0,
+        "total_debt": 31.0
+      },
+      "FY23": {
+        "pat": 31.0,
+        "total_debt": 31.0
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Aug_13,_2025_Vikram_Solar_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {
+        "revenue": 9.0,
+        "pat": 36.0,
+        "total_debt": 36.0,
+        "finance_cost": 36.0
+      },
+      "FY24": {
+        "revenue": 31.0,
+        "ebitda": 2013.0,
+        "pat": 2013.0,
+        "total_assets": 31.0,
+        "total_equity": 11.0,
+        "total_debt": 11.0,
+        "finance_cost": 11.0,
+        "ebit": 2013.0,
+        "current_assets": 11.0,
+        "current_liabilities": 11.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": 64.93548387096774,
+      "pat_margin_avg": 34.46774193548387,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 2.4444444444444446,
+      "current_ratio_latest": 1.0,
+      "debt_to_equity_latest": 1.0,
+      "interest_coverage_latest": 183.0,
+      "asset_turnover_latest": 1.0,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": 1.7319368254672791,
+      "pat_margin_avg": 2.6354139027169428,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 2.587155191318024,
+      "current_ratio_latest": -0.36604603317479417,
+      "debt_to_equity_latest": -0.3784673342626181,
+      "interest_coverage_latest": 1.7320283997009918,
+      "asset_turnover_latest": -0.4288029684356838,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Aug_14,_2024_Interarch_Building_Products_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {
+        "current_liabilities": 8.13
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Aug_19,_2025_Vikran_Engineering_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "revenue": 2024.0,
+        "finance_cost": 2024.0,
+        "current_assets": 50.0
+      },
+      "FY23": {
+        "current_assets": 50.0
+      },
+      "FY24": {
+        "total_debt": 60.0,
+        "current_assets": 60.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Aug_20,_2025_Mangal_Electrical_Industries_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Aug_28,_2024_Baazar_Style_Retail_Limited_-_RHP.pdf",
+    "sector": "FMCG",
+    "financials": {
+      "FY22": {
+        "revenue": 16.3,
+        "total_debt": 16.3
+      },
+      "FY23": {},
+      "FY24": {
+        "revenue": 11.0,
+        "ebitda": 11.0,
+        "pat": 11.0,
+        "total_assets": 11.0,
+        "finance_cost": 11.0,
+        "ebit": 11.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": 1.0,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": -0.17850950963089585,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": 1.0,
+      "asset_turnover_latest": 1.0,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": 0.7071067811865474,
+      "pat_margin_avg": 0.5146971177268234,
+      "revenue_cagr": 0.25429326121258233,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_03,_2025_Wakefit_Innovations_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "current_assets": 2020.0
+      },
+      "FY23": {},
+      "FY24": {
+        "current_assets": 2020.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Aug_30,_2024_Bajaj_Housing_Finance_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "ebitda": 31.0,
+        "pat": 31.0,
+        "total_equity": 31.0,
+        "ebit": 31.0
+      },
+      "FY23": {
+        "total_assets": 54.8,
+        "total_debt": 54.8
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_03,_2025_Nephrocare_Health_Services_Limited_-_RHP.pdf",
+    "sector": "Pharmaceuticals",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_08,_2023_Suraj_Estate_Developers_Limited_-_RHP.pdf",
+    "sector": "GLOBAL",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_08,_2025_ICICI_Prudential_Asset_Management_Company_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_11,_2024_Transrail_Lighting_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "revenue": 0.08,
+        "pat": 0.08,
+        "total_assets": 0.08,
+        "total_equity": 266450.0,
+        "total_debt": 47.0,
+        "finance_cost": 312.0,
+        "ebit": 312.0,
+        "current_assets": 3.0,
+        "current_liabilities": 0.08
+      },
+      "FY23": {
+        "revenue": 0.08,
+        "pat": 0.08,
+        "total_assets": 0.08,
+        "total_equity": 266450.0,
+        "total_debt": 47.0,
+        "finance_cost": 312.0,
+        "ebit": 312.0,
+        "current_assets": 3.0,
+        "current_liabilities": 0.08
+      },
+      "FY24": {
+        "revenue": 0.08,
+        "pat": 0.08,
+        "total_assets": 0.08,
+        "total_equity": 266450.0,
+        "total_debt": 47.0,
+        "finance_cost": 312.0,
+        "ebit": 312.0,
+        "current_assets": 3.0,
+        "current_liabilities": 0.08
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": 0.0,
+      "pat_cagr": 0.0,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": 37.5,
+      "debt_to_equity_latest": 0.00017639331957215238,
+      "interest_coverage_latest": 1.0,
+      "asset_turnover_latest": 1.0,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": -0.402941525098969,
+      "revenue_cagr": -0.5773502691896257,
+      "pat_cagr": -0.5773502691896257,
+      "latest_revenue_yoy": -0.07657661797627983,
+      "current_ratio_latest": 2.6447872579193854,
+      "debt_to_equity_latest": -0.37847610387498165,
+      "interest_coverage_latest": -0.5731895513933893,
+      "asset_turnover_latest": -0.4288029684356838,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_15,_2023_Azad_Engineering_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "revenue": 318.08,
+        "pat": 1200.07,
+        "total_debt": 318.08,
+        "ebit": 318.08,
+        "current_assets": 318.08
+      },
+      "FY23": {
+        "pat": 1200.07,
+        "total_debt": 31.0,
+        "current_assets": 31.0
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 3.772855885311871,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": -0.15120892401911631,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_09,_2024_International_Gemmological_Institute_(India)_Limited_-_RHP.pdf",
+    "sector": "FMCG",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_13,_2023_Muthoot_Microfin_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "total_debt": 30.0
+      },
+      "FY23": {
+        "total_debt": 30.0
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_16,_2024_Senores_Pharmaceuticals_Limited_-_RHP.pdf",
+    "sector": "Pharmaceuticals",
+    "financials": {
+      "FY22": {
+        "revenue": 24290.0,
+        "ebitda": 24290.0,
+        "pat": 24290.0,
+        "total_assets": 16.0,
+        "total_equity": 24290.0,
+        "total_debt": 24290.0,
+        "ebit": 24290.0,
+        "current_assets": 16.0,
+        "current_liabilities": 16.0
+      },
+      "FY23": {
+        "revenue": 24290.0,
+        "ebitda": 24290.0,
+        "pat": 24290.0,
+        "total_assets": 16.0,
+        "total_equity": 24290.0,
+        "total_debt": 24290.0,
+        "ebit": 24290.0,
+        "current_assets": 16.0,
+        "current_liabilities": 16.0
+      },
+      "FY24": {
+        "revenue": 24290.0,
+        "ebitda": 24290.0,
+        "pat": 24290.0,
+        "total_assets": 16.0,
+        "total_equity": 24290.0,
+        "total_debt": 24290.0,
+        "ebit": 24290.0,
+        "current_assets": 10.0,
+        "current_liabilities": 16.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": 1.0,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": 0.0,
+      "pat_cagr": 0.0,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": 0.625,
+      "debt_to_equity_latest": 1.0,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": 1518.125,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": -1.0,
+      "pat_cagr": null,
+      "latest_revenue_yoy": -1.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": 1.4142135623730951,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Feb_02,_2024_Apeejay_Surrendra_Park_Hotels_Limited_-_RHP.pdf",
+    "sector": "FMCG",
+    "financials": {
+      "FY22": {
+        "revenue": 350.0,
+        "total_debt": 1276.36
+      },
+      "FY23": {
+        "total_debt": 1276.36
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Feb_05,_2025_Ajax_Engineering_Ltd-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "total_debt": 2022.0
+      },
+      "FY23": {},
+      "FY24": {
+        "total_debt": 2022.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Dec_14,_2024_Ventive_Hospitality_Limited_-_RHP.pdf",
+    "sector": "FMCG",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {
+        "revenue": 31.0,
+        "pat": 31.0,
+        "finance_cost": 31.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 0.5146971177268234,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Feb_02,_2024_Capital_Small_Finance_Bank_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "pat": 24.0,
+        "total_debt": 51270.41,
+        "ebit": 24.0
+      },
+      "FY23": {
+        "pat": 8242130.0,
+        "total_debt": 51270.41
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jan_23,_2025_Dr._Agarwal's_Healthcare_Limited_-_RHP.pdf",
+    "sector": "Pharmaceuticals",
+    "financials": {
+      "FY22": {
+        "revenue": 30.0
+      },
+      "FY23": {
+        "revenue": 30.0
+      },
+      "FY24": {
+        "revenue": 30.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": 0.0,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": -1.0,
+      "pat_cagr": null,
+      "latest_revenue_yoy": -1.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jul_17,_2025_Shanti_Gold_International_Limited_-_RHP.pdf",
+    "sector": "FMCG",
+    "financials": {
+      "FY22": {
+        "revenue": 270.0,
+        "pat": 313.43,
+        "total_equity": 313.43,
+        "total_debt": 498.28,
+        "finance_cost": 270.0,
+        "current_assets": 498.28
+      },
+      "FY23": {
+        "pat": 313.43,
+        "total_equity": 313.43,
+        "total_debt": 498.28,
+        "current_assets": 498.28
+      },
+      "FY24": {
+        "revenue": 1.6,
+        "ebitda": 1.6,
+        "pat": 1.6,
+        "total_equity": 1.6,
+        "total_debt": 498.28,
+        "ebit": 1.6,
+        "current_assets": 498.28,
+        "current_liabilities": 1.6
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": 1.0,
+      "pat_margin_avg": 1.080425925925926,
+      "revenue_cagr": -0.9230199641080499,
+      "pat_cagr": -0.9285520602737852,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": 311.42499999999995,
+      "debt_to_equity_latest": 311.42499999999995,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": 0.7071067811865474,
+      "pat_margin_avg": 0.6978101003990728,
+      "revenue_cagr": -1.7000621053325775,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jul_25,_2025_Brigade_Hotel_Ventures_Limited-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "total_equity": 1140.5,
+        "total_debt": 403.4,
+        "finance_cost": 403.4,
+        "current_assets": 2020.0,
+        "current_liabilities": 2020.0
+      },
+      "FY23": {},
+      "FY24": {
+        "total_debt": 403.4,
+        "finance_cost": 403.4
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jul_25,_2024_Akums_Drugs_and_Pharmaceuticals_Limited_-_RHP.pdf",
+    "sector": "Pharmaceuticals",
+    "financials": {
+      "FY22": {
+        "revenue": 31.0,
+        "pat": 31.0,
+        "total_equity": 31.0,
+        "current_assets": 31.0,
+        "current_liabilities": 31.0
+      },
+      "FY23": {
+        "revenue": 31.0,
+        "pat": 31.0,
+        "total_equity": 31.0,
+        "current_assets": 31.0,
+        "current_liabilities": 31.0
+      },
+      "FY24": {
+        "revenue": 122.03,
+        "total_assets": 122.03,
+        "total_debt": 122.03,
+        "finance_cost": 122.03
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": 0.9840492969942118,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 2.936451612903226,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": 1.0,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": 1.0,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 1.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": -0.7071067811865475,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jul_30,_2024_Unicommerce_eSolutions_Limited_-_RHP.pdf",
+    "sector": "IT Services",
+    "financials": {
+      "FY22": {
+        "revenue": 28.53,
+        "ebitda": 28.53,
+        "pat": 28.53,
+        "total_equity": 28.53,
+        "finance_cost": 28.53,
+        "ebit": 28.53,
+        "current_assets": 28.53,
+        "current_liabilities": 28.53
+      },
+      "FY23": {
+        "revenue": 28.53,
+        "ebitda": 28.53,
+        "pat": 28.53,
+        "total_equity": 28.53,
+        "finance_cost": 28.53,
+        "ebit": 28.53,
+        "current_assets": 28.53,
+        "current_liabilities": 28.53
+      },
+      "FY24": {
+        "revenue": 28.53,
+        "ebitda": 28.53,
+        "pat": 28.53,
+        "total_equity": 28.53,
+        "finance_cost": 28.53,
+        "ebit": 28.53,
+        "current_assets": 28.53,
+        "current_liabilities": 28.53
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": 1.0,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": 0.0,
+      "pat_cagr": 0.0,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": 1.0,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": 1.0,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": -1.0,
+      "pat_cagr": 1.0,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jul_26,_2024_Ola_Electric_Mobility_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jul_25,_2025_Indiqube_Spaces_Limited-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jun_09,_2025_Oswal_Pumps_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "current_assets": 1.0
+      },
+      "FY23": {
+        "current_assets": 1.0
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jun_12,_2024_DEE_Development_Engineers_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jun_18,_2025_Ellenbarrie_Industrial_Gases_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jun_13,_2024_Stanley_Lifestyles_Limited-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jun_20,_2025_Sambhv_Steel_Tubes_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {
+        "revenue": 50.0,
+        "ebitda": 50.0,
+        "pat": 50.0,
+        "total_assets": 50.0,
+        "total_equity": 50.0,
+        "ebit": 50.0,
+        "current_assets": 50.0,
+        "current_liabilities": 50.0
+      },
+      "FY24": {
+        "revenue": 50.0,
+        "ebitda": 50.0,
+        "pat": 50.0,
+        "total_assets": 50.0,
+        "total_equity": 50.0,
+        "total_debt": 17239600.0,
+        "ebit": 50.0,
+        "current_assets": 50.0,
+        "current_liabilities": 50.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": 1.0,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": 1.0,
+      "debt_to_equity_latest": 344792.0,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": 1.0,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": -0.5717824019797063,
+      "pat_margin_avg": -0.402941525098969,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": -0.07657661797627983,
+      "current_ratio_latest": -0.36604603317479417,
+      "debt_to_equity_latest": 2.6457495338254433,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": -0.4288029684356838,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Mar_05,_2024_Popular_Vehicles_and_Services_Ltd_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "total_debt": 30.0,
+        "finance_cost": 30.0
+      },
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Jun_20,_2025_HDB_Financial_Services_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "total_assets": 1.0,
+        "total_debt": 1.0
+      },
+      "FY23": {
+        "total_assets": 1.0,
+        "total_debt": 1.0
+      },
+      "FY24": {
+        "total_assets": 1.0,
+        "total_debt": 1.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "May_02,_2024_Indegene_Limited_-_RHP.pdf",
+    "sector": "Pharmaceuticals",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "May_20,_2025_Borana_Weaves_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "revenue": 5.0,
+        "ebitda": 5.0,
+        "pat": 5.0,
+        "total_equity": 5.0,
+        "finance_cost": 5.0,
+        "ebit": 5.0,
+        "current_assets": 5.0,
+        "current_liabilities": 5.0
+      },
+      "FY23": {
+        "revenue": 2024.0,
+        "ebitda": 5.0,
+        "pat": 2024.0,
+        "total_equity": 5.0,
+        "finance_cost": 2024.0,
+        "ebit": 5.0,
+        "current_assets": 5.0,
+        "current_liabilities": 5.0
+      },
+      "FY24": {
+        "revenue": 307.0,
+        "ebitda": 5.0,
+        "pat": 307.0,
+        "total_equity": 5.0,
+        "total_debt": 2022.0,
+        "finance_cost": 307.0,
+        "ebit": 5.0,
+        "current_assets": 5.0,
+        "current_liabilities": 5.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": 0.3395856668941218,
+      "pat_margin_avg": 1.0,
+      "revenue_cagr": 6.835815209663893,
+      "pat_cagr": 6.835815209663893,
+      "latest_revenue_yoy": -0.8483201581027668,
+      "current_ratio_latest": 1.0,
+      "debt_to_equity_latest": 404.4,
+      "interest_coverage_latest": 0.016286644951140065,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": -0.5955784085967524,
+      "pat_margin_avg": -0.402941525098969,
+      "revenue_cagr": 1.7320508075688774,
+      "pat_cagr": 1.7320508075688774,
+      "latest_revenue_yoy": -1.0009982773596988,
+      "current_ratio_latest": -0.36604603317479417,
+      "debt_to_equity_latest": -0.3749290485051977,
+      "interest_coverage_latest": -0.5856492969142131,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "May_02,_2024_TBO_Tek_Limited_-_RHP.pdf",
+    "sector": "IT Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "May_15,_2025_Belrise_Industries_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "revenue": 31.0,
+        "total_equity": 31.0,
+        "total_debt": 2007.0,
+        "finance_cost": 2007.0,
+        "current_liabilities": 31.0
+      },
+      "FY23": {
+        "revenue": 31.0,
+        "total_equity": 31.0,
+        "total_debt": 2007.0,
+        "finance_cost": 2007.0,
+        "current_liabilities": 31.0
+      },
+      "FY24": {
+        "revenue": 31.0,
+        "pat": 17.03,
+        "total_equity": 31.0,
+        "total_debt": 3.75,
+        "current_liabilities": 31.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 0.5493548387096775,
+      "revenue_cagr": 0.0,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": 0.12096774193548387,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": -0.44385316396796975,
+      "revenue_cagr": -0.5773502691896257,
+      "pat_cagr": null,
+      "latest_revenue_yoy": -0.07657661797627983,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": -0.3784750443947922,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Nov_05,_2025_Emmvee_Photovoltaic_Power_Limited_-RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {
+        "revenue": 25.17,
+        "total_debt": 25.17
+      },
+      "FY24": {
+        "revenue": 25.17,
+        "total_debt": 25.17
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": -0.07657661797627983,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "May_08,_2024_Go_Digit_General_Insurance_Limited_-_RHP.pdf",
+    "sector": "IT Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {
+        "revenue": 2022.0,
+        "total_debt": 0.2,
+        "ebit": 2022.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Nov_08,_2024_Zinka_Logistics_Solutions_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Nov_04,_2024_Niva_Bupa_Health_Insurance_Company_Limited_-_RHP.pdf",
+    "sector": "FMCG",
+    "financials": {
+      "FY22": {
+        "revenue": 0.12
+      },
+      "FY23": {
+        "revenue": 0.12
+      },
+      "FY24": {
+        "revenue": 0.12
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": 0.0,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": 0.7228844220599975,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Nov_13,_2023_Tata_Technologies_Limited_-_RHP.pdf",
+    "sector": "IT Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Nov_13,_2024_NTPC_Green_Energy_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {
+        "revenue": 15.69,
+        "pat": 0.55,
+        "total_debt": 15.69,
+        "ebit": 2022.0,
+        "current_assets": 15.69,
+        "current_liabilities": 0.55
+      },
+      "FY24": {
+        "revenue": 0.57,
+        "pat": 0.57,
+        "total_assets": 51.0,
+        "total_debt": 30.0,
+        "ebit": 2022.0,
+        "current_assets": 34.0,
+        "current_liabilities": 34.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 0.5175270873167622,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": -0.9636711281070746,
+      "current_ratio_latest": 1.0,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": 0.011176470588235293,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": -0.44674263351707344,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": -1.1266972061006466,
+      "current_ratio_latest": -0.36604603317479417,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": -0.5196261007913046,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Nov_16,_2023_Gandhar_Oil_Refinery_(India)_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "revenue": 25.0,
+        "ebitda": 30.0,
+        "pat": 30.0,
+        "total_assets": 25.0,
+        "total_equity": 30.0,
+        "total_debt": 30.0,
+        "finance_cost": 30.0,
+        "ebit": 30.0,
+        "current_assets": 30.0,
+        "current_liabilities": 30.0
+      },
+      "FY23": {
+        "revenue": 25.0,
+        "ebitda": 30.0,
+        "pat": 30.0,
+        "total_assets": 25.0,
+        "total_equity": 30.0,
+        "total_debt": 30.0,
+        "finance_cost": 30.0,
+        "ebit": 30.0,
+        "current_assets": 30.0,
+        "current_liabilities": 30.0
+      },
+      "FY24": {
+        "revenue": 25.0,
+        "ebitda": 30.0,
+        "pat": 30.0,
+        "total_assets": 25.0,
+        "total_equity": 30.0,
+        "total_debt": 30.0,
+        "finance_cost": 30.0,
+        "ebit": 30.0,
+        "current_assets": 30.0,
+        "current_liabilities": 30.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": 1.2,
+      "pat_margin_avg": 1.2,
+      "revenue_cagr": 0.0,
+      "pat_cagr": 0.0,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": 1.0,
+      "debt_to_equity_latest": 1.0,
+      "interest_coverage_latest": 1.0,
+      "asset_turnover_latest": 1.0,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": -0.5645760148908208,
+      "pat_margin_avg": -0.3847846059158763,
+      "revenue_cagr": -0.5773502691896257,
+      "pat_cagr": -0.5773502691896257,
+      "latest_revenue_yoy": -0.07657661797627983,
+      "current_ratio_latest": -0.36604603317479417,
+      "debt_to_equity_latest": -0.3784673342626181,
+      "interest_coverage_latest": -0.5731895513933893,
+      "asset_turnover_latest": -0.4288029684356838,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Nov_03,_2025_Pine_Labs_Ltd_-_RHP.pdf",
+    "sector": "IT Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {
+        "total_debt": 30.0,
+        "current_assets": 30.0
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Nov_18,_2025_Sudeep_Pharma_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Nov_20,_2023_Fedbank_Financial_Services_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "pat": 48.1,
+        "total_assets": 2.0,
+        "total_debt": 2.0
+      },
+      "FY23": {
+        "pat": 48.1,
+        "total_debt": 31.0
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Oct_14,_2024_Hyundai_Motor_India_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {
+        "revenue": 2024.0,
+        "total_debt": 2024.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Oct_08,_2025_Canara_HSBC_Life_Insurance_Company_Limited_-_RHP.pdf",
+    "sector": "IT Services",
+    "financials": {
+      "FY22": {
+        "revenue": 31.0,
+        "pat": 31.0
+      },
+      "FY23": {
+        "revenue": 2013.0,
+        "pat": 1.0,
+        "total_debt": 2013.0,
+        "ebit": 2013.0
+      },
+      "FY24": {
+        "revenue": 2013.0,
+        "pat": 1.0,
+        "total_debt": 2013.0,
+        "ebit": 2013.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 0.3336645139923829,
+      "revenue_cagr": 7.058255634501039,
+      "pat_cagr": -0.8203946979732251,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": -0.9999999999999998,
+      "revenue_cagr": 1.0,
+      "pat_cagr": -1.0,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Oct_10,_2025_Midwest_Limited_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {
+        "revenue": 30.0,
+        "total_assets": 1.0,
+        "total_equity": 105047.0,
+        "total_debt": 105047.0,
+        "finance_cost": 105047.0,
+        "current_assets": 30.0,
+        "current_liabilities": 105047.0
+      },
+      "FY24": {
+        "revenue": 30.0,
+        "total_assets": 1.0,
+        "total_equity": 105047.0,
+        "total_debt": 105047.0,
+        "finance_cost": 105047.0,
+        "current_assets": 30.0,
+        "current_liabilities": 105047.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": 0.0002855864517787276,
+      "debt_to_equity_latest": 1.0,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": 30.0,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": -0.07657661797627983,
+      "current_ratio_latest": -0.448511058870621,
+      "debt_to_equity_latest": -0.3784673342626181,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": 2.2348379745340394,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Oct_18,_2023_Blue_Jet_Healthcare_Limited_-_RHP.pdf",
+    "sector": "Pharmaceuticals",
+    "financials": {
+      "FY22": {
+        "total_debt": 99999.0,
+        "current_assets": 99999.0
+      },
+      "FY23": {
+        "total_assets": 46.0,
+        "total_debt": 99999.0,
+        "current_assets": 99999.0
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Oct_25,_2023_Honasa_Consumer_Limited_-_RHP.pdf",
+    "sector": "FMCG",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Oct_28,_2024_Swiggy_Limited_-_RHP.pdf",
+    "sector": "FMCG",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Sep_02,_2025_Shringar_House_of_Mangalsutra_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {
+        "pat": 2024.0,
+        "total_debt": 2024.0,
+        "current_assets": 2024.0
+      },
+      "FY23": {
+        "pat": 2024.0,
+        "total_debt": 2024.0,
+        "finance_cost": 270.0,
+        "current_assets": 2024.0
+      },
+      "FY24": {
+        "pat": 2024.0,
+        "total_debt": 2024.0,
+        "finance_cost": 270.0,
+        "current_assets": 2024.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": 0.0,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": -0.5773502691896257,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Sep_07,_2024_Western_Carriers_(India)_Limited_-_RHP.pdf",
+    "sector": "FMCG",
+    "financials": {
+      "FY22": {
+        "revenue": 2023.0,
+        "ebitda": 31.0,
+        "pat": 31.0,
+        "total_equity": 31.0,
+        "finance_cost": 31.0,
+        "ebit": 31.0,
+        "current_assets": 2023.0
+      },
+      "FY23": {
+        "revenue": 2023.0,
+        "total_equity": 10.0,
+        "current_assets": 2023.0
+      },
+      "FY24": {
+        "revenue": 2023.0,
+        "total_equity": 10.0,
+        "current_assets": 2023.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": 0.01532377656945131,
+      "pat_margin_avg": 0.01532377656945131,
+      "revenue_cagr": 0.0,
+      "pat_cagr": null,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": -1.4142135623730951,
+      "pat_margin_avg": -1.7272043358527203,
+      "revenue_cagr": 0.7228844220599975,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Sep_08,_2023_R_R_Kabel_Limited_-_RHP.pdf",
+    "sector": "Manufacturing",
+    "financials": {
+      "FY22": {},
+      "FY23": {
+        "current_assets": 1.0
+      },
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Sep_11,_2023_Yatra_Online_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Sep_16,_2024_Manba_Finance_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {
+        "revenue": 370.0,
+        "pat": 4.0,
+        "total_equity": 4.0,
+        "total_debt": 370.0,
+        "finance_cost": 370.0,
+        "current_assets": 4.0,
+        "current_liabilities": 4.0
+      },
+      "FY23": {
+        "revenue": 4.0,
+        "pat": 4.0,
+        "total_equity": 4.0,
+        "total_debt": 4.0,
+        "current_assets": 4.0,
+        "current_liabilities": 4.0
+      },
+      "FY24": {
+        "revenue": 4.0,
+        "pat": 4.0,
+        "total_equity": 4.0,
+        "total_debt": 4.0,
+        "current_assets": 4.0,
+        "current_liabilities": 4.0
+      }
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": 0.6702702702702702,
+      "revenue_cagr": -0.8960249510179927,
+      "pat_cagr": 0.0,
+      "latest_revenue_yoy": 0.0,
+      "current_ratio_latest": 1.0,
+      "debt_to_equity_latest": 1.0,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  },
+  {
+    "company_pdf": "Sep_12,_2023_Signatureglobal_(India)_Limited_-_RHP.pdf",
+    "sector": "Financial Services",
+    "financials": {
+      "FY22": {},
+      "FY23": {},
+      "FY24": {}
+    },
+    "metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    },
+    "normalized_metrics": {
+      "ebitda_margin_avg": null,
+      "pat_margin_avg": null,
+      "revenue_cagr": null,
+      "pat_cagr": null,
+      "latest_revenue_yoy": null,
+      "current_ratio_latest": null,
+      "debt_to_equity_latest": null,
+      "interest_coverage_latest": null,
+      "asset_turnover_latest": null,
+      "ocf_to_pat_avg": null
+    }
+  }
+]
